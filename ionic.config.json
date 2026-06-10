@@ -1,0 +1,13 @@
+{
+  "name": "AgriCrop",
+  "integrations": {
+    "capacitor": {
+      "appId": "com.agricrop.app",
+      "server": {
+        "url": null,
+        "cleartext": true
+      }
+    }
+  },
+  "type": "react"
+}
